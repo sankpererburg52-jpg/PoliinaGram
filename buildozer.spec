@@ -20,7 +20,7 @@ fullscreen = 0
 
 android.api = 33
 android.minapi = 24
-android.ndk = 25.2.9519653
+android.ndk = 25c
 android.accept_sdk_license = True
 
 # Разрешения: интернет обязателен, POST_NOTIFICATIONS — для пушей (API 33+)
