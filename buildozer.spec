@@ -13,7 +13,7 @@ version = 0.1.0
 icon.filename = icons/icon.png
 presplash.filename = icons/presplash.png
 
-requirements = python3,kivy==2.3.0,requests,websockets,PyJWT,urllib3,chardet,idna,certifi
+requirements = python3,kivy==2.3.0,requests,urllib3,idna,certifi
 
 orientation = portrait
 fullscreen = 0
